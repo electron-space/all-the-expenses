@@ -1,5 +1,5 @@
 import React from 'react';
 
-const fn = () => {
-	return div;
-};
+export function max() {
+	return <div></div>;
+}
